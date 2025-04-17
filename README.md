@@ -44,14 +44,13 @@ A **desktop-based personal finance application** built using **C++** and **Rayli
 ## 📷 Screenshots
 
 ### 🧭 Dashboard
-![Dashboard](./dashboard.png)
+<img src="./dashboard.png" alt="Dashboard" width="300"/>
 
 ### ➕ Add Transaction
-![Add Transaction](./addtransaction.png)
+<img src="./addtransaction.png" alt="Add Transaction" width="300"/>
 
 ### 📅 Monthly Summary
-![Monthly Summary](./summary.png)
-
+<img src="./summary.png" alt="Monthly Summary" width="300"/>
 ---
 
 ## 📄 How to Run
