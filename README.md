@@ -41,10 +41,16 @@ A **desktop-based personal finance application** built using **C++** and **Rayli
 - Build a mobile version with Flutter or React Native
 
 ---
-
 ## 📷 Screenshots
 
-> Add screenshots here (e.g., Dashboard, Add Transaction, Summary)
+### 🧭 Dashboard
+![Dashboard](./dashboard.png)
+
+### ➕ Add Transaction
+![Add Transaction](./addtransaction.png)
+
+### 📅 Monthly Summary
+![Monthly Summary](./summary.png)
 
 ---
 
