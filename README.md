@@ -49,8 +49,4 @@ A **desktop-based personal finance application** built using **C++** and **Rayli
 ---
 
 ## 📄 How to Run
-
-1. Install [Raylib](https://www.raylib.com/)
-2. Compile using a C++ compiler with Raylib linked:
-   ```bash
-   g++ 2.cpp -o BudgetTracker -lraylib -lwinmm -lgdi32
+> JUST SIMPLY DOWNLOAD THE ZIP FILE OF IT AND EXTRACT IT AND THEN SIMPLY RUN THE "2.exe" FILE 
