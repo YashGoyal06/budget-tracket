@@ -3,6 +3,11 @@
 A **desktop-based personal finance application** built using **C++** and **Raylib** that allows users to track their income and expenses, visualize spending habits, and manage their budget effectively.
 
 ---
+# DEMO VIDEO 
+
+https://drive.google.com/file/d/1oq3hhZrrsfg9V0uigJUpqAnVvWMXLEAw/view?usp=sharing
+
+---
 
 ## 🚀 Features
 
